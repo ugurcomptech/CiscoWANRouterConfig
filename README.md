@@ -52,9 +52,11 @@ Routerların kendi arasında konuşacağı bir network oluşturalım:
   - **Ip Adres:** 10.1.1.2
   - **Ağ Maskesi:** 255.0.0.0
 
+
+![image](https://github.com/ugurcomptech/CiscoWANRouterConfig/assets/133202238/39b06bf3-64b3-4db7-8bb4-28734b951b44)
+
  
 Routerların kendi arasında konuşacağı bir network oluşturduk şimdi yönlendirme yapacağız:
-
 
 ## İstanbul Router
 

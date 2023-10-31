@@ -62,6 +62,16 @@ Routerların kendi arasında konuşacağı bir network oluşturduk şimdi yönle
 
 ## Bursa Router 
 
+![image](https://github.com/ugurcomptech/CiscoWANRouterConfig/assets/133202238/fba324f2-b637-4c0b-95c5-b396458efcdd)
+
+
+
+## Packet Sender
+
+Yönlendirmeler tamamlandı şimdi paketin nasıl gittiğini görelim:
+
+https://github.com/ugurcomptech/CiscoWANRouterConfig/assets/133202238/30cc533b-7953-4481-b8be-92f5b207bae4
+
 
 
 

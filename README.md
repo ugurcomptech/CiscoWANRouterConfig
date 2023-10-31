@@ -55,7 +55,12 @@ Routerların kendi arasında konuşacağı bir network oluşturalım:
  
 Routerların kendi arasında konuşacağı bir network oluşturduk şimdi yönlendirme yapacağız:
 
+
+## İstanbul Router
+
 ![image](https://github.com/ugurcomptech/CiscoWANRouterConfig/assets/133202238/64b2823f-467f-4668-af0b-bb6315b0d73f)
+
+## Bursa Router 
 
 
 

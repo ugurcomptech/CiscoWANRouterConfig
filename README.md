@@ -49,7 +49,7 @@ Routerların kendi arasında konuşacağı bir network oluşturalım:
 
 
 - **Bursa Router Serial 3/0:**
-  - **Ip Adres:**10.1.1.2
+  - **Ip Adres:** 10.1.1.2
   - **Ağ Maskesi:** 255.0.0.0
 
  
